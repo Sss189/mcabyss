@@ -25,7 +25,7 @@ Three main components:
 
 Abyss Layers & Curses
 
-Items: Ammo Pouch & Star Compass
+Items: Cartridge & Star Compass
 
 Configuration
 
@@ -55,14 +55,14 @@ Curse Activation:
 
 Triggers when ascending beyond a Y-axis threshold. Game tracks the lowest Y; exceeding the delta triggers curses.
 
-Teleporting through multiple layers applies all eligible curses (ammo pouch durability drains cumulatively).
+Teleporting through multiple layers applies all eligible curses (Cartridge durability drains cumulatively).
 
 HUD:
 
 Displays current layer and curse trigger height on the top-left.
 
 2.2 Items
-Ammo Pouch
+Cartridge
 
 Function: Blocks one curse, consuming durability. Appearance changes at 100%, 50%, 25% durability (lyrics from Forever Lost ED).
 
@@ -97,7 +97,7 @@ Layer Toggle: Enable/disable specific curses.
 
 HUD Settings: Customize font and position.
 
-Ammo Pouch: Set durability cost per layer.
+Cartridge: Set durability cost per layer.
 
 Star Compass: Toggle "no backward movement" and set initial coordinates.
 
