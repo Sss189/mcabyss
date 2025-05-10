@@ -43,13 +43,13 @@ Layer 4: Wither II + Red filter + Redstone/Magma particles (simulate bleeding).
 
 Layer 5: Blindness + Inverted filter → White filter (lazy approach) + Forced random movement (prone to falling).
 
-Layer 6 (most complex):
+Layer 6:
 
 Wither III + Strong red filter + Bleeding particles.
 
 Replace player model with "Hollow", lock camera to Hollow's eyes, disable WASD/GUI, allow only forward jumps (no cooldown → funny glitches).
 
-Use /summon curseofabyss:hollow ~ ~ ~ to spawn the "Unfortunate Author Hollow".
+(Use /summon curseofabyss:hollow ~ ~ ~ to spawn the "Unfortunate Author Hollow".)
 
 Curse Activation:
 
@@ -89,13 +89,13 @@ Row 3: Glass, Glass, Glass
 Category: Creative-mode tool.
 
 2.3 Configuration
-Layer Settings: Custom Y-axis ranges (supports multiple ranges, e.g., Layer 6: 10-20,50-60).Attention to the symbol
+Layer Settings: Custom Y-axis ranges (supports multiple ranges and Allow superposition , e.g., Layer 6: 10-20,50-60 Layer 5:0-100 ).Attention to the symbol
 
 Curse Effects: Adjust duration and toggle particles.
 
 Layer Toggle: Enable/disable specific curses.
 
-HUD Settings: Customize font and position.
+HUD Settings: Customize colour and position.
 
 Cartridge: Set durability cost per layer.
 
@@ -149,13 +149,13 @@ Star Compass: Toggle "no backward movement" and set initial coordinates.
 
 第五层：失明（原版效果） + 反色滤镜 → 白色滤镜（偷懒设计） + 强制随机移动（极易坠落）。
 
-第六层（开发最久）：
+第六层：
 
 凋零 III（原版效果） + 强红色滤镜 + 流血粒子效果。
 
 替换玩家模型为“生骸”，锁定视角至生骸眼部，禁用 WASD 移动与 GUI，仅允许向视角方向跳跃（无冷却，可能产生有趣现象）。
 
-输入指令 /summon curseofabyss:hollow ~ ~ ~ 可召唤作者化身的“不幸生骸”。
+(输入指令 /summon curseofabyss:hollow ~ ~ ~ 可召唤作者化身的“不幸生骸”)
 
 诅咒触发逻辑：
 
@@ -195,13 +195,13 @@ HUD 显示：
 分类：创造模式工具。
 
 2.3 模组配置
-层配置：自定义各层 Y 轴范围（支持多区间叠加，如第六层：10-20,50-60）。注意符号
+层配置：自定义各层 Y 轴范围（支持多区间叠加，如第六层：10-20,50-60 同时第五层：0-100）。注意符号
 
 诅咒效果配置：调整持续时间与粒子效果开关。
 
 层诅咒开关：启用/禁用特定层诅咒。
 
-HUD 设置：调整信息字体与显示位置。
+HUD 设置：调整信息颜色与显示位置。
 
 弹药包设置：自定义各层诅咒消耗的耐久值。
 
