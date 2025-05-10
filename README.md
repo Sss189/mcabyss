@@ -6,7 +6,7 @@ Warnings:
 
 Only tested on Minecraft 1.12.2 Forge (Singleplayer). No guarantees for other versions or multiplayer. 
 
-Known Compatibility Issues:
+Possible incompatibility with other mods:
 
 Visual filters added for Layers 2-6 curses.
 
@@ -112,7 +112,7 @@ Star Compass: Toggle "no backward movement" and set initial coordinates.
 
 此模组仅在 Minecraft 1.12.2 Forge 版本的单人模式 下测试通过，未适配其他版本或任何多人游戏。若因使用导致游戏崩溃，请自行承担风险。
 
-已知兼容性问题：
+可能的与其他模组的不兼容：
 
 第二、三、四、五、六层诅咒添加了画面滤镜效果。
 
