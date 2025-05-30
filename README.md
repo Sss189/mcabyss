@@ -89,6 +89,8 @@ Row 3: Glass, Glass, Glass
 Category: Creative-mode tool.
 
 2.3 Configuration
+Dimension Configuration: Which Dimensions Apply the Curses
+
 Layer Settings: Custom Y-axis ranges (supports multiple ranges and Allow superposition , e.g., Layer 6: 10-20,50-60 Layer 5:0-100 ).Attention to the symbol
 
 Curse Effects: Adjust duration and toggle particles.
@@ -195,6 +197,8 @@ HUD 显示：
 分类：创造模式工具。
 
 2.3 模组配置
+维度配置：诅咒应用在哪些维度
+
 层配置：自定义各层 Y 轴范围（支持多区间叠加，如第六层：10-20,50-60 同时第五层：0-100）。注意符号
 
 诅咒效果配置：调整持续时间与粒子效果开关。
